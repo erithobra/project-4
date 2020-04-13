@@ -2,8 +2,12 @@
 
 **You’ve come a long way, and it's time to show it.**
 
-This project should be your magnum opus of WDI. If you put in the effort, it'll
+This project should be your magnum opus of SEI. If you put in the effort, it'll
 be the one you want to show off most prominently in your portfolio.
+
+You may work solo or in pairs for this project.
+
+Note: for these project days, the classroom will be open (and the instructors will be available for Github issues) **8am - 4pm CST**. We will have squads or standups at **9am CST** each day. Feel free to take breaks and lunch at your leisure!
 
 **You get to call the shots and invent your own idea**, choosing tools that are
 appropriate for what you want to build. Pull from everything you've learned so
@@ -38,8 +42,7 @@ You must turn in something before presentations begin. However, you are welcome
 
 ## Presentation
 
-You will present your final project in a science fair format on the last day of
-Project Week. Stay tuned for a schedule!
+You will present your final project (and your Django project - optional) on the last day of Project Week, **April 21, 2020 at 9am CST**. We will provide a sign up for time slots so it will be easier to invite outside folks to join Zoom.
 
 ## Necessary Deliverables
 
@@ -67,7 +70,7 @@ The repository/repositories for your final project should include:
 * A working project (built by you) that meets the technical requirements above.
 * Frequent commits dating back to the very beginning of the project.
 * A `readme.md` file in the root of your repo that follows [good standards of
-  documentation](https://git.generalassemb.ly/ga-wdi-lessons/documentation-markdown)
+  documentation](https://git.generalassemb.ly/jdr-0127/documentation-markdown)
   (i.e. explanations of the technologies used, the approach taken, features,
   installation instructions, unsolved problems, etc.)
 * A `planning/` directory in the root of your repo containing a diagram mapping
@@ -78,11 +81,32 @@ The repository/repositories for your final project should include:
 
 > ![The URL section of your Github repo](https://i.imgur.com/QQ7RsfR.gif)
 
-## Asking For Help
+<br>
 
-## GitHub Issues
+## Asking For Help - GitHub Issues
 
-You get 2 tokens to ask questions to any instructor this week. Use them strategically -- only when you really, really need help. After this week 
+You get 2 tokens to ask questions to any instructor this week. Use them strategically -- only when you really, really need help. After this week.
+
+GitHub issues are the most useful method for answering technical questions. 90% of the time, at least one instructor will be dedicated to monitoring issues at all times during business hours. The other 10% will be announced in advance on Slack.
+
+Issues should follow this format:
+```
+I tried ___.
+I expected ___ to happen.
+___ happened instead.
+My repo link is ___ and my question is about lines ___.
+```
+
+[Just click this handy link to create an issue with these blanks inserted for you!](https://git.generalassemb.ly/jdr-0127/project-4/issues/new?title=issue+with+____&body=I+tried+_____.+I+expected+_____+to+happen._____+happened+instead.%0DMy+repo+link+is+___+and+my+question+is+about+lines+___.)
+
+*Please close your issues when you've received a satisfactory answer*, and let us know what the solution was! We'll close issues that have gone more than 30 minutes without any updates.
+
+**Note:** Issues can only be reopened by instructors. Therefore, should your issue get closed, please create a *new* issue, and if it's applicable to your previous issue, just include a link to the previous issue.
+
+**Please `@here` in Slack when you''ve submitted an issue to give everyone a heads up.**
+
+<br>
+ 
 
 ## Potential Project Ideas
 
