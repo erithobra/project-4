@@ -52,6 +52,8 @@ Your submission must include **all** of the following:
 
 ### Project Idea and Initial Planning
 
+**You can start coding only after your project is approved.**
+
 By the end of Day 1 of Project Week, you need to submit:
 
 1. Your project idea (a brief 2-3 sentence description of your app)
