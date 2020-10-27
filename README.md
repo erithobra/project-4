@@ -7,7 +7,7 @@ be the one you want to show off most prominently in your portfolio.
 
 You will work solo for this project.
 
-Note: for these project days, the classroom will be open (and the instructors will be available for Github issues) **9am - 5pm EST**. We will have squads or standups at **9:15am EST** each day. Feel free to take breaks and lunch at your leisure!
+Note: for these project days, the classroom will be open (and the instructors will be available for Github issues) **9am - 5pm EST**. We will have squads or standups at **9:30am EST** each day. Feel free to take breaks and lunch at your leisure!
 
 We will have a mid project check in on **November 13 at 11:00 am EST**. You will be expected to share your screen and show what you have done so far. This is done to make sure everyone is on track and instructors can raise red flags if any.
 
