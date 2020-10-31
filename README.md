@@ -92,8 +92,6 @@ The repository/repositories for your final project should include:
 
 ## Asking For Help - GitHub Issues
 
-You get 2 tokens to ask questions to each instructor during project week. Use them strategically -- only when you really, really need help. This will start only after your project is approved.
-
 GitHub issues are the most useful method for answering technical questions. 90% of the time, at least one instructor will be dedicated to monitoring issues at all times during business hours. The other 10% will be announced in advance on Slack.
 
 Issues should follow this format:
