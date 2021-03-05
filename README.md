@@ -36,7 +36,7 @@ Your project must:
 
 ## Submission
 
-***DO NOT FORK THIS REPOSITORY!*** Create a **new** repository in your personal GitHub. Then, submit
+***DO NOT FORK THIS REPOSITORY!*** Create **TWO new** repositories in your personal GitHub. Then, submit
 your project as an issue to this repo, and complete all requested information in this [project spreadsheet](https://docs.google.com/spreadsheets/d/1vxmC87F7dvdysBYYUsdAZqWU_Fr3xYzLMJLWAR9NmZM/edit?usp=sharing).
 
 You must turn in something before presentations begin. However, you are welcome
