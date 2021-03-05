@@ -70,7 +70,7 @@ project](evaluation.md).
 
 ### Final Project
 
-Your project is due on **November 18, 2020 before 10am EST**. 
+Your project is due on **March 18, 2021 before 10am EST**. 
 
 The repository/repositories for your final project should include:
 
