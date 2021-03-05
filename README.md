@@ -90,7 +90,23 @@ The repository/repositories for your final project should include:
 
 <br>
 
-## Asking For Help - GitHub Issues
+## Asking For Help
+
+### Scrums
+
+Once a day, at 10am EST, the instructors will have 15 minute scrum
+meeting with the class to talk about progress and planning.
+
+### In-person Support
+
+Each person will be given 3 (three) tokens, redeemable at any time during regular
+class time, for 20 minutes with an instructor. Tokens cannot be transferred between individuals - _there is no
+black market for tokens_.
+
+Instructors will **not** be holding open office hours during project week. This is
+to give you the opportunity to solve issues and errors you run in to on your own.
+
+### GitHub Issues
 
 GitHub issues are the most useful method for answering technical questions. 90% of the time, at least one instructor will be dedicated to monitoring issues at all times during business hours. The other 10% will be announced in advance on Slack.
 
