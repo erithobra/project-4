@@ -37,7 +37,7 @@ Your project must:
 ## Submission
 
 ***DO NOT FORK THIS REPOSITORY!*** Create a **new** repository in your personal GitHub. Then, submit
-your project as an issue to this repo.
+your project as an issue to this repo, and complete all requested information in this [project spreadsheet](https://docs.google.com/spreadsheets/d/1vxmC87F7dvdysBYYUsdAZqWU_Fr3xYzLMJLWAR9NmZM/edit?usp=sharing).
 
 You must turn in something before presentations begin. However, you are welcome
 (and encouraged) to continue working on it!
@@ -146,9 +146,6 @@ Imagine a realtime messaging client, but with private messages, an inbox, unread
 messages, and who knows what else. This is your chance to re-invent email as we
 know it.
 
-Here is the GA gallery of exceptionally awesome WDI projects from all over the
-world! - https://gallery.generalassemb.ly/WDI
-
 ## Tips
 
 * **Implement one or two easy things, and one hard thing.** The hard thing
@@ -185,8 +182,7 @@ world! - https://gallery.generalassemb.ly/WDI
 * **[Visual Design
   Hacking](https://generalassemb.ly/online/videos/visual-design-hacking)** _(a
   great tips-and-tricks focused video from Front Row)_
-* **[Web Design For
-  Non-designers](https://generalassemb.ly/online/videos/web-design-for-non-designers)**
+* **[Web Design For Non-designers](https://generalassemb.ly/online/videos/web-design-for-non-designers)**
   _(another great design-related course for all the nerds out there)_
 
 ### Pre-employment checklist
