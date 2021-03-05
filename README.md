@@ -9,7 +9,7 @@ You will work solo for this project.
 
 Note: for these project days, the classroom will be open (and the instructors will be available for Github issues) **9am - 5pm EST**. Feel free to take breaks and lunch at your leisure!
 
-We will have a mid project check in on **November 13 at 11:00 am EST**. You will be expected to share your screen and show what you have done so far. This is done to make sure everyone is on track and instructors can raise red flags if any.
+We will have a mid project check in on **March 12 at 11:00 am EST**. You will be expected to share your screen and show what you have done so far. This is done to make sure everyone is on track and instructors can raise red flags if any.
 
 **You get to call the shots and invent your own idea**, choosing tools that are
 appropriate for what you want to build. Pull from everything you've learned so
@@ -44,7 +44,7 @@ You must turn in something before presentations begin. However, you are welcome
 
 ## Presentation
 
-You will present your final project on the last day of Project Week, **November 18, 2020 at 10am EST**. We will provide a sign up for time slots so it will be easier to invite outside folks to join Zoom.
+You will present your final project on the last day of Project Week, **March 18th, 2020 at 10am EST**. We will provide a sign up for time slots so it will be easier to invite outside folks to join Zoom.
 
 ## Necessary Deliverables
 
