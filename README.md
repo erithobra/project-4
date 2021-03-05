@@ -146,6 +146,15 @@ Imagine a realtime messaging client, but with private messages, an inbox, unread
 messages, and who knows what else. This is your chance to re-invent email as we
 know it.
 
+If you're struggling to come up with your own project ideas, checkout
+[r/startup_ideas](https://www.reddit.com/r/Startup_Ideas/) on reddit or
+[requestforstartup.co](https://requestforstartup.co/).
+
+> TIP: The best projects tend to be MVP versions of popular applications with a
+> unique twist. If there's popular application that you use frequently (think
+> Twitter, Facebook, Instagram, Evernote, etc), think about how you could create
+> your own unique version of it.
+
 ## Tips
 
 * **Implement one or two easy things, and one hard thing.** The hard thing
