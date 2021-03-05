@@ -146,6 +146,7 @@ Imagine a realtime messaging client, but with private messages, an inbox, unread
 messages, and who knows what else. This is your chance to re-invent email as we
 know it.
 
+**Some other ideas**
 If you're struggling to come up with your own project ideas, checkout
 [r/startup_ideas](https://www.reddit.com/r/Startup_Ideas/) on reddit or
 [requestforstartup.co](https://requestforstartup.co/).
